@@ -1,7 +1,7 @@
 # File Read & Write Challenge 🖋️: Create a program that reads a file and writes a modified version to a new file.
 # 1. File Read & Write Challenge 🖋️: Create a program that reads a file and writes a modified version to a new file
 
-# Open the original file in read mode and read it
+# Opening the original file in read mode and read it
 file = open("file1.txt", "r")
 print(file.read())
 file.close()
